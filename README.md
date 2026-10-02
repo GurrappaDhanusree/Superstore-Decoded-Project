@@ -2,9 +2,9 @@
 
 **Live Interactive Project:**
 - 📊 View Dashboard:
-- (https://public.tableau.com/app/profile/gurrappa.dhanusree/viz/ExecutiveDashboardAnalyzingSuperstoreSales/Dashboard3?publish=yes)
+- https://public.tableau.com/app/profile/gurrappa.dhanusree/viz/ExecutiveDashboardAnalyzingSuperstoreSales/Dashboard3?publish=yes
 - 📖View Story -Sales to Profit Risk:
-- (https://public.tableau.com/app/profile/gurrappa.dhanusree/viz/Superstore-Decoded-Sales-to-Profit-Risk/Story2)
+- https://public.tableau.com/app/profile/gurrappa.dhanusree/viz/Superstore-Decoded-Sales-to-Profit-Risk/Story2
 
 ### 📌 Project Overview
 This is an end-to-end data analysis project using the classic Superstore dataset. The goal was to analyze why high sales are not converting into high profits and to identify loss-making areas.
